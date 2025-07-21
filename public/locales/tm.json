@@ -1,0 +1,44 @@
+{
+    "header": {
+      "download_app": "Programmany ýükle"
+    },
+    "hero": {
+      "title": "Erkin gepleşiň",
+      "description": "Täze aragatnaşyk tejribesine “sag bol” diýiň. Üýtgewsiz...",
+      "download_app": "Programmany ýükle"
+    },
+    "why_use": {
+      "title": "Näme üçin Gürleş ulanmaly?",
+      "description": "Gürleşiň näme üçin ýönekeý, güýçli we howpsuz habarçy bolandygyny öwreniň."
+    },
+    "security": {
+      "title": "Şübhesiz paýlaşyň",
+      "description1": "Iň täze uçdan-uca şifrleme (açyk başlangyç Gürleş protokoly bilen üpjün edilýär) siziň gepleşikleriňizi gorayar. Biz siziň habarlaryňyzy okap bilmeris ýa-da jaňlaryňyza gulak asyp bilmeris, beýlekiler hem şeýle.",
+      "description2": "Gizlinlik saýlama däl — bu Gürleşiň işiniň esasy. Her habar, her jaň, her gezek."
+    },
+    "features": {
+      "feature1": {
+        "title": "Istedigiňizi aýdyň",
+        "description": "Tekst habarlaryny, sesli habarlary, suratlary, wideolary, GIF-leri we faýllary mugt iberiň.",
+        "action": "Geliň şuny edeliň!"
+      },
+      "feature2": {
+        "title": "Erkin gepleşiň",
+        "description": "Dünýädaky adamlara kristal ýaly arassa sesli we wideo jaňlary ediň."
+      },
+      "feature3": {
+        "title": "Gizlinligi möhüm ediň",
+        "description": "Şifrlanan stikerler bilen gepleşikleriňize täze bir dereje goşuň."
+      },
+      "feature4": {
+        "title": "Toparlar bilen ýakyndaşyň",
+        "description": "Topar gepleşikleri maşgalaňyz we dostlaryňyz bilen aňsat aragatnaşyk saklamaga kömek edýär."
+      }
+    },
+    "footer": {
+      "title": "Geçmek üçin gaty gowy dälmi?",
+      "google_play": "Google Play",
+      "app_store": "App Store"
+    }
+  }
+  

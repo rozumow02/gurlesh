@@ -1,0 +1,43 @@
+{
+    "header": {
+      "download_app": "Download App"
+    },
+    "hero": {
+      "title": "Speak Freely",
+      "description": "Say “hello” to a new communication experience. Uncompromising...",
+      "download_app": "Download App"
+    },
+    "why_use": {
+      "title": "Why Use Gürleş?",
+      "description": "Discover why Gürleş is a simple, powerful, and secure messenger."
+    },
+    "security": {
+      "title": "Share Without Doubt",
+      "description1": "State-of-the-art end-to-end encryption (powered by the open-source Gürleş protocol) keeps your conversations secure. We can’t read your messages or listen to your calls, and no one else can either.",
+      "description2": "Privacy isn’t an option—it’s the foundation of Gürleş. Every message, every call, every time."
+    },
+    "features": {
+      "feature1": {
+        "title": "Say Anything",
+        "description": "Send text messages, voice messages, photos, videos, GIFs, and files for free.",
+        "action": "Let’s Do It!"
+      },
+      "feature2": {
+        "title": "Speak Freely",
+        "description": "Make crystal-clear voice and video calls to people around the world."
+      },
+      "feature3": {
+        "title": "Make Privacy Matter",
+        "description": "Add a new layer of expression to your chats with encrypted stickers."
+      },
+      "feature4": {
+        "title": "Stay Closer with Groups",
+        "description": "Group chats make it easy to stay connected with family and friends."
+      }
+    },
+    "footer": {
+      "title": "Too Good to Pass Up, Right?",
+      "google_play": "Google Play",
+      "app_store": "App Store"
+    }
+  }
